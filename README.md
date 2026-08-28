@@ -103,7 +103,7 @@ The goal is to eventually make it possible to calculate a system mathematically,
 
 ## Project Status
 
-NenoStudio is currently in early development.
+NenoStudio is currently in early development under Nenomorph™
 
 Initial work is focused on building the mathematical foundation through **PyNumCore** before expanding into PyKinMo, visualization tools, and the main graphical application.
 
